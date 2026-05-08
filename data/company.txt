@@ -1,0 +1,94 @@
+# Nova Finance — Company Handbook
+
+## About Nova Finance
+Nova Finance is a fintech company founded in 2018, headquartered in Bengaluru, India, with a satellite office in Singapore. We build budgeting, investing, and tax-planning software for retail customers across South and Southeast Asia. We currently serve about 2.4 million users and have 320 employees across four functions: Engineering, Finance, People (HR), and Sales & Marketing.
+
+## Mission and Values
+Our mission is to make personal finance simple, transparent, and trustworthy for everyone. Our four core values are: Customer Obsession, Frugality, Bias for Action, and Radical Candor. New joinees are expected to read the Values one-pager during their first week.
+
+## Leadership and Org Chart
+- CEO: Aarav Mehta
+- CTO: Priya Raghavan (reports to Aarav Mehta)
+- CFO: Rohan Desai (reports to Aarav Mehta)
+- Chief People Officer: Sneha Kulkarni (reports to Aarav Mehta)
+- VP Sales: Karthik Iyer (reports to Aarav Mehta)
+
+### Engineering (under Priya Raghavan)
+- Director of Platform: Aditi Sharma
+- Director of Mobile: Vikram Joshi
+- Director of Data: Meera Pillai
+
+### Finance (under Rohan Desai)
+- Head of FP&A (Financial Planning and Analysis): Ananya Reddy
+- Head of Accounting: Suresh Nair
+- Head of Treasury: Devika Banerjee
+- Finance Operations Manager: Rahul Khanna (reports to Suresh Nair)
+- New finance team joinees report directly to Rahul Khanna for the first 30 days, then are assigned to one of the three sub-teams (FP&A, Accounting, or Treasury).
+
+### People / HR (under Sneha Kulkarni)
+- HR Business Partner Lead: Farah Khan
+- Talent Acquisition Lead: Jayanth Rao
+- Learning & Development Lead: Ishaan Verma
+
+### Sales & Marketing (under Karthik Iyer)
+- Head of Sales: Tanvi Kapoor
+- Head of Marketing: Arjun Bhatt
+
+## Finance Team — Sub-teams and Tools
+- **FP&A** owns budgeting, forecasting, and management reporting. Tools: Anaplan, Tableau, Excel.
+- **Accounting** owns the general ledger, monthly close, and audit. Tools: NetSuite, BlackLine.
+- **Treasury** owns cash management, banking relationships, and FX. Tools: Kyriba, Bloomberg Terminal.
+- All finance teams use Slack channel #finance-team for daily coordination and #finance-help for cross-team questions.
+
+## New Joinee Onboarding Checklist
+On Day 1 every new employee should:
+1. Pick up their laptop and ID card from the IT desk on Floor 3 between 9:30 AM and 11:00 AM.
+2. Complete the IT setup: install company VPN (GlobalProtect), Slack, Zoom, 1Password, and the relevant team tools.
+3. Attend the company-wide welcome session at 11:30 AM in the Auditorium.
+4. Have lunch with their assigned onboarding buddy (assigned by their manager the week before).
+5. Meet their direct manager for a 1:1 at 3:00 PM.
+6. Complete the mandatory "Code of Conduct" and "Information Security" e-learning modules on the LMS by end of Week 1.
+7. Read the Values one-pager and the team-specific runbook shared by their manager.
+
+For finance team joinees specifically, in Week 1 they will also: shadow a month-end close meeting, get read-only access to NetSuite, and have introductory 30-minute meetings with the heads of FP&A, Accounting, and Treasury.
+
+## Leave Policy
+- Annual leave: 22 working days per calendar year, accrued monthly.
+- Sick leave: 12 days per calendar year, no medical certificate required for up to 2 consecutive days.
+- Parental leave: 26 weeks paid for primary caregivers, 8 weeks paid for secondary caregivers.
+- Bereavement leave: 5 days for immediate family.
+- Public holidays: 12 days per year as per the India holiday calendar (separate calendar applies for Singapore office).
+- All leave is requested through the People Portal (people.nova.internal) and requires manager approval at least 3 working days in advance, except sick leave.
+
+## Work-from-Home (WFH) Policy
+Nova Finance follows a hybrid model: 3 days in office, 2 days WFH. Office days for most teams are Tuesday, Wednesday, and Thursday. Engineering teams may flex this with their manager's approval. Fully remote work is permitted for up to 4 weeks per year, subject to manager approval and tax compliance.
+
+## Expense and Reimbursement Policy
+- Submit expenses via Expensify within 30 days of incurring the cost.
+- Manager approval required for all expenses above ₹2,000.
+- Travel: economy class for flights under 6 hours, premium economy for longer flights, hotels capped at ₹8,000/night in metros.
+- Client entertainment: prior approval from a director or above required for amounts above ₹5,000.
+- Reimbursements are processed on the 15th and 30th of each month.
+
+## Code of Conduct (Summary)
+All employees are expected to act with integrity, treat colleagues with respect, protect customer data, avoid conflicts of interest, and report any wrongdoing through the confidential ethics hotline (ethics@nova.finance) or to their HRBP. Harassment, discrimination, and retaliation are zero-tolerance offenses.
+
+## Performance Review Cycle
+Reviews happen twice a year — in June and December. The cycle has four stages: self-review, peer feedback (3–5 peers), manager review, and calibration. Promotions and merit raises are decided in the December cycle. Outcomes are communicated by the second week of January.
+
+## Payroll
+- Salaries are credited on the last working day of each month.
+- Payslips are available on the People Portal under "My Payroll" by the 1st of the following month.
+- Tax declarations and Form 16 are managed by Suresh Nair's accounting team. Questions go to payroll@nova.finance.
+
+## Raising IT Tickets
+For any laptop, software, network, or access issues, raise a ticket through the IT Helpdesk portal (helpdesk.nova.internal) or email it@nova.finance. For urgent issues during the workday, the IT desk on Floor 3 is staffed from 9 AM to 7 PM. After-hours critical issues should be escalated through the on-call channel #it-oncall on Slack.
+
+## Common FAQ
+- **"Who do I talk to about my salary?"** Your direct manager for raises, and payroll@nova.finance for payslip or tax-form questions.
+- **"How do I get access to NetSuite?"** Raise an IT ticket; access requires approval from Suresh Nair.
+- **"Where do I find the WFH calendar for my team?"** It's pinned in your team's Slack channel and on the team page in the People Portal.
+- **"Who's my onboarding buddy?"** Your direct manager assigns one before your start date and shares their contact in your welcome email.
+- **"What benefits do I get?"** Health insurance for self, spouse, and up to 2 children up to ₹10 lakh; group term life insurance of 3x annual base salary; ₹40,000 annual learning budget; subsidized cafeteria; gym reimbursement up to ₹2,000/month.
+- **"How do I claim my learning budget?"** Submit the course or book through the L&D Lead, Ishaan Verma, with a one-line justification. Approval typically takes 2 working days.
+- **"What's the dress code?"** Smart casuals on office days. Formal attire required only for client meetings or external events.
