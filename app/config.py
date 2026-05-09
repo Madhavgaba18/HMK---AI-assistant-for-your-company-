@@ -20,3 +20,6 @@ CHUNK_SIZE = 500
 CHUNK_OVERLAP = 60
 TOP_K = 4
 HISTORY_TURNS = 6
+
+RAG_THRESHOLD = 0.40
+GENERAL_REPLY_PREFIX = "(General knowledge — not from Nova Finance docs)\n\n"

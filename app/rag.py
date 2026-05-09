@@ -51,10 +51,10 @@ def load() -> None:
     np.savez(config.EMBEDDINGS_CACHE, matrix=_embeddings, count=len(_chunks))
 
 
-def retrieve(query: str, k: int = config.TOP_K) -> list[str]:
+def retrieve(query: str, k: int = config.TOP_K) -> tuple[list[str], float]:
     if _encoder is None or _embeddings is None:
         raise RuntimeError("rag.load() must be called before retrieve()")
     q = _encoder.encode([query], normalize_embeddings=True)[0]
     scores = _embeddings @ q
     top = np.argsort(-scores)[:k]
-    return [_chunks[i] for i in top]
+    return [_chunks[i] for i in top], float(scores[top[0]])
